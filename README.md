@@ -1,6 +1,4 @@
-# ft_gkrellm
-
-## Simple process display programm
+# ft_gkrellm (Simple process display programm)
 
 ## Compile
 ```
