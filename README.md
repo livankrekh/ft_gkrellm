@@ -12,4 +12,4 @@
 ```
 Flag -n for display in ncurses mode
 
-![Program display](https://drive.google.com/open?id=1mSX0xYSEExQ8sQFAg5u2f4SdfNsxfiTN)
+![Program display](https://drive.google.com/uc?authuser=0&id=1mSX0xYSEExQ8sQFAg5u2f4SdfNsxfiTN&export=download)
